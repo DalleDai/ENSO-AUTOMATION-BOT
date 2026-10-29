@@ -22,7 +22,7 @@ Follow these simple steps to run the bot on your machine:
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/cryptodai3/ENSO-AUTOMATION-BOT.git
+git clone https://github.com/DalleDai/ENSO-AUTOMATION-BOT.git
 cd ENSO-AUTOMATION-BOT
 ```
 
@@ -142,7 +142,7 @@ http://user2:pass2@98.76.54.32:8000
 
 ### 💬 Need Help?
 
-* 🐛 **Bug Reports**: [Open a GitHub Issue](https://github.com/cryptodai3/ENSO-AUTOMATION-BOT/issues)
+* 🐛 **Bug Reports**: [Open a GitHub Issue](https://github.com/DalleDai/ENSO-AUTOMATION-BOT/issues)
 * 💡 **Channel**: Join [@cryptodai3](https://t.me/cryptodai3)
 * 🌐 **Community**: Join [YetiDAO Telegram](https://t.me/YetiDAO)
 
